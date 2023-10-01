@@ -2,7 +2,7 @@
 import openai
 from pptx import Presentation
 
-openai.api_key = "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"
+openai.api_key = ""
 
 prs = Presentation()
 
